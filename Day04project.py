@@ -26,4 +26,4 @@ elif(a==2 and b == 0):
 elif(a==2 and b == 1):
     print(" You wins")
 else:
-    print("Not Valid        ")
+    print("Not Valid")
