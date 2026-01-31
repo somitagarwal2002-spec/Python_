@@ -1,3 +1,4 @@
+# Password Generator (Simple and Advanced Method) -------------------------------
 import random
 
 alpha = ["A","a","B","b","C","c","D","d","E","e"]

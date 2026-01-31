@@ -1,3 +1,5 @@
+# Rock, Paper and Scissor Game ---------------------------------
+
 import random
 
 a = int(input("Chose between 0 for rock,1 for paper and 2 for scissor \n"))
