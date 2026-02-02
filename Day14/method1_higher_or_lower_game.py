@@ -1,3 +1,5 @@
+# Using global keyword "Less Effiecient" ---------------------------------
+
 import random
 
 def ans():
