@@ -12,11 +12,13 @@ from turtle import Turtle, Screen
 
 timmy = Turtle()
 print(timmy)
+# object and method
 timmy.shape("turtle") # jo screen pr point aayega uska shape
 timmy.color("red") # changes color of the shape i.e turtle here
-timmy.forward(100)
+timmy.forward(100) # moves 100 pxl
 
 my_screen = Screen()
+# object and attributes
 print(my_screen.canvheight)
 print(my_screen.canvwidth)
 
