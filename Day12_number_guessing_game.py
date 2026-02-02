@@ -33,7 +33,7 @@ def guess(lives):
                 print("Wrong input")
 
 num = random.randint(1,100)
-print(num)
+#print(num)
 level = input("Chose your level 'easy' or 'hard': ")
 if level == "easy":
     guess(10)
